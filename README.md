@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrij Chakraborty</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Colab&Work](https://github.com/Adrijchakraborty/Colab-and-Work)
+- 🔭 I’m currently working on [Socially](https://github.com/Adrijchakraborty/Socially)
 
 - 🌱 I’m currently learning **MERN Stack**
 
