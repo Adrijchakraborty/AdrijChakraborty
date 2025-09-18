@@ -1,19 +1,78 @@
-<h1 align="center">Hi 👋, I'm Adrij Chakraborty</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Hi there, I'm Adrij Chakraborty 👋
 
-- 🔭 I’m currently working on [Socially](https://github.com/Adrijchakraborty/Socially)
+## Software Developer | Electronics & Communications Engineering Graduate
 
-- 🌱 I’m currently learning **MERN Stack**
+I'm a passionate full-stack developer transitioning from Electronics & Communications Engineering to software development. Currently working as a Frontend Intern at Filter Trade Technologies while actively seeking full-time opportunities in software development.
 
-- 💬 Ask me about **React,Node js,Express,Mongo DB,DSA**
+### 🚀 About Me
 
-- 📫 How to reach me **adrijchakraborty8@gmail.com**
+- 🎓 **Recent Graduate**: B.Tech in Electronics & Communication Engineering from Techno Main Saltlake (CGPA: 8.26/10.0)
+- 💼 **Current Role**: Frontend Intern at Filter Trade Technologies Pvt. Ltd.
+- 🔍 **Looking for**: Full-time Software Developer opportunities
+- 🌱 **Currently Learning**: Advanced MERN Stack, TypeScript, and modern deployment practices
+- 💡 **Passionate About**: Building scalable web applications and solving complex problems through code
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adrij chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrij chakraborty" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adrij chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adrij chakraborty" height="30" width="40" /></a>
-</p>
+### 🛠️ Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Programming Languages**
+- JavaScript, TypeScript, Python, Java, C++
+
+**Frontend Development**
+- React.js, Redux, TailwindCSS, Bootstrap, Material-UI
+- Responsive Design, Component Optimization, State Management
+
+**Backend Development**
+- Node.js, Express.js, REST APIs
+- MongoDB, SQL Database Management
+
+**Tools & Practices**
+- Git, GitHub, JWT Authentication
+- API Testing (Insomnia, Postman)
+- Cloud Deployment (Vercel, Render)
+
+**Core Competencies**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- API Integration, Database Design
+
+### 💼 Featured Projects
+
+#### 🌐 [Socially](https://github.com/Adrijchakraborty/Socially) | [Live Demo](#)
+*Full-Stack Social Media Platform*
+- Built with **MERN Stack** featuring user authentication, post creation, likes, comments, and image uploads
+- Optimized performance using React Lazy & Suspense with lazy-loaded images
+- Responsive design ensuring seamless experience across all devices
+
+#### 📋 [Todo Job](https://github.com/yourusername/todo-job) | [Live Demo](#)
+*Task & Job Tracking Application*
+- Developed with **MERN Stack + TypeScript** for enhanced type safety
+- Integrated **Groq AI API** for automated job detail extraction from URLs
+- Implemented secure session-based authentication with role-based access control
+- Utilized **Zustand** for efficient state management
+- Deployed on **Vercel** (frontend) and **Render** (backend)
+
+### 📈 Current Focus
+
+- 🔧 Enhancing expertise in **TypeScript** and modern React patterns
+- 🏗️ Building scalable applications with clean architecture
+- 🤝 Contributing to open-source projects
+- 📚 Strengthening **Data Structures & Algorithms** problem-solving skills
+
+### 🎯 Professional Goals
+
+I'm actively seeking opportunities to contribute as a **Full-Stack Developer** where I can leverage my technical skills and passion for creating impactful software solutions. My background in Electronics & Communications Engineering provides me with a unique problem-solving perspective in software development.
+
+### 📫 Let's Connect
+
+- **Email**: adrijchakraborty7@gmail.com
+- **LinkedIn**: [Adrij Chakraborty](https://linkedin.com/in/adrij-chakraborty)
+- **LeetCode**: [Adrij Chakraborty](https://www.leetcode.com/adrij-chakraborty)
+- **Portfolio**: [View My Work](#)
+
+### 🤝 Open to Opportunities
+
+I'm currently **open to full-time positions** in software development. If you're looking for a dedicated developer who brings both technical skills and fresh perspectives, let's connect!
+
+---
+
+*"Transforming ideas into digital solutions, one line of code at a time."*
